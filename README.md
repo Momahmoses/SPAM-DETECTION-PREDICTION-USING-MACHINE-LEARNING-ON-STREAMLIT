@@ -1,10 +1,10 @@
-# Spam Detection & Prediction — Streamlit App
+# Spam Detection & Prediction, Streamlit App
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-deployed-red.svg)](https://streamlit.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-NLP-powered spam detection app that classifies messages as spam or legitimate in real time — built with scikit-learn text classifiers and deployed as an interactive Streamlit web application.
+NLP-powered spam detection app that classifies messages as spam or legitimate in real time, built with scikit-learn text classifiers and deployed as an interactive Streamlit web application.
 
 ---
 
@@ -50,5 +50,5 @@ streamlit run app.py
 
 ## Author
 
-**Momah Moses** — Geospatial AI Engineer & Data Scientist
+**Momah Moses**, Geospatial AI Engineer & Data Scientist
 [GitHub](https://github.com/Momahmoses) · [Portfolio](https://momahmoses-ng-gis-portfolio.hf.space)
